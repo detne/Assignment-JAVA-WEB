@@ -1,0 +1,7 @@
+application/pdf
+image/webp
+application/zip
+image/jpeg
+image/png
+application/msword --> doc
+application/vnd.openxmlformats-officedocument.wordprocessingml.document --> docx
