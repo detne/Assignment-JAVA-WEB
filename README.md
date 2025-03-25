@@ -315,7 +315,7 @@ Dự án **Management Application Apartment** là một hệ thống quản lý 
 # 5. How to Install the Project
 
 -   **Tải mã nguồn**:
-    -   git clone <repository-url>
+    -   git clone <git@github.com:detne/Assignment-JAVA-WEB.git>
 -   **Thiết lập cơ sở dữ liệu**:
     -   Tạo database: CREATE DATABASE apartment_management;
     -   Chạy script SQL để tạo bảng và dữ liệu mẫu.
