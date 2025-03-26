@@ -3,7 +3,7 @@
 
 # 1. Overview
 
-Dự án **Management Application Apartment** là một hệ thống quản lý căn hộ trực tuyến, hỗ trợ người dùng đăng ký tài khoản, quản lý thông tin cá nhân, đăng bài ký gửi căn hộ, quản lý dịch vụ, hợp đồng, và sử dụng các tính năng nâng cao như chat trực tuyến, thanh toán. Đối với admin và superadmin, hệ thống cung cấp các công cụ để quản lý tài khoản, bài đăng, dịch vụ, doanh thu, phản hồi và hợp đồng. Dự án được phát triển bởi nhóm 6 thành viên, kết hợp giữa Frontend (JSP, HTML, CSS, JS) và Backend (Java Servlet, DAO).
+Dự án **Management Application Apartment** là một hệ thống quản lý căn hộ trực tuyến, hỗ trợ người dùng đăng ký tài khoản, quản lý thông tin cá nhân, đăng bài ký gửi căn hộ, quản lý dịch vụ, hợp đồng, và sử dụng các tính năng nâng cao như chat trực tuyến, thanh toán. Đối với admin, hệ thống cung cấp các công cụ để quản lý tài khoản, bài đăng, dịch vụ, doanh thu, phản hồi và hợp đồng. Dự án được phát triển bởi nhóm 6 thành viên, kết hợp giữa Frontend (JSP, HTML, CSS, JS) và Backend (Java Servlet, DAO).
 
 ## Members:
 
@@ -74,7 +74,7 @@ Dự án **Management Application Apartment** là một hệ thống quản lý 
 
 # 3. Database Design
 
-(Phần này có thể được bổ sung sau nếu bạn cung cấp sơ đồ ERD cụ thể.)
+(Phần này được up bổ sung sơ đồ ERD cụ thể.)
 
 # 4. Use Cases
 
